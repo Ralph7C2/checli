@@ -5,3 +5,5 @@
 # Usage
 
 `rg -n something-to-check | go run github.com/ralph7c2/checli`
+
+![checli-gif](checli.gif)
